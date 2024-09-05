@@ -9,6 +9,7 @@
  \version  2.0
  ********************************************************************** * */
 
+#include "modules.h"
 
 #include <iostream>
 #include <iomanip>
